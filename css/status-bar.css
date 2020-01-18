@@ -3,6 +3,9 @@
     justify-content: space-between;
     margin-bottom: 30px;
     opacity: 0.7;
+    position: fixed;
+    width: 100%;
+    top: 0px;
 }
 
 .status-bar i {
